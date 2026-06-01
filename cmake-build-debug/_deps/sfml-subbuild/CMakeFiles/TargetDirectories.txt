@@ -1,3 +1,0 @@
-/Users/patrykzinowkin/Desktop/Projekt mapping/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
-/Users/patrykzinowkin/Desktop/Projekt mapping/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
-/Users/patrykzinowkin/Desktop/Projekt mapping/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
