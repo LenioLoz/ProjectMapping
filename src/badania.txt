@@ -1,0 +1,7 @@
+Ze stalam mapa:
+    Zbieranie sredniej pozyskanej czesci mapy w n probach
+    Algorytm + zachowanie srednia liczba zwyciestw w n probach
+
+Z losowym grafem:
+    Zbieranie sredniej pozyskanej czesci mapy w n probach
+    Algorytm + zachowanie srednia liczba zwyciestw w n probach
